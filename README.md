@@ -1,6 +1,10 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/heruwala/JSONServer](https://my-json-server.typicode.com/heruwala/JSONServer)
+
+[https://my-json-server.typicode.com/heruwala/JSONServer/posts](https://my-json-server.typicode.com/heruwala/JSONServer/posts)
+
+[https://my-json-server.typicode.com/heruwala/JSONServer/posts/1](https://my-json-server.typicode.com/heruwala/JSONServer/posts/1)
 
 ## Use your own data
 
