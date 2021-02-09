@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "signIn": {
+    "schoolId": 250,
+    "userRole": "Admin",
+    "enrolledAppName": "EMSWP"
   }
 }
