@@ -15,5 +15,9 @@
     "schoolId": 250,
     "userRole": "Admin",
     "enrolledAppName": "EMSWP"
+  },
+  "loyalty": {
+    "loyaltyNumber": "1033-1282",
+    "email": "dhaval@hotmail.com"
   }
 }
