@@ -19,5 +19,13 @@
   "loyalty": {
     "loyaltyNumber": "1033-1282",
     "email": "dhaval@hotmail.com"
+  },
+  "Users": {
+    "firstName": "John",
+    "firstName": "John",
+    "email": "John@hotmail.com",
+    "externalId" : 213423423,
+    "objectId": "asdfasd908-awe4rsdf-asdf34sdf",
+    "oracleCredentialBatchId": 2020123654
   }
 }
